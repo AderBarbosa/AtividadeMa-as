@@ -4,7 +4,7 @@ class Program {
   public static void Main (string[] args) {
     string maca;
       Double num1, valor;
-      
+
   Console.WriteLine("Número de maças: ");
    maca = Console.ReadLine ();
    num1 = Double.Parse(maca);
